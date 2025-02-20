@@ -1,3 +1,4 @@
+### Newer repo: https://github.com/swarmzero/swarmzero
 ![](./assets/logo.jpg)
 
 # Hive Agent Kit
